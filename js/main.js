@@ -88,6 +88,7 @@ function soKetNoi1(obj) {
 }
 
 
+
 document.getElementById('btnTinhTienCap').onclick = function() {
     //input:
     var maKH = document.getElementById('maKhachHang').value
